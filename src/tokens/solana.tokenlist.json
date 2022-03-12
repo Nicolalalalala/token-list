@@ -94082,6 +94082,26 @@
         "social-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EG9XkYbV8VnZtYtj9oifTnoqrHuWvog7NibTbiXfZsyS",
+      "symbol": "LBC",
+      "name": "LaBella Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Nicolalalalala/LaBellaCoin/main/Logo_yellow.png",
+      "tags": [
+        "social-token",
+        "community-token",
+        "utility-token",
+        "reward-token"
+      ],
+      "extensions": {
+        "github": "https://github.com/Nicolalalalala/LaBellaCoin",
+        "instagram": "https://www.instagram.com/labellacoin/",
+        "twitter": "https://twitter.com/labellacoin",
+        "website": "https://www.labellacoin.global"
+      }
     }
   ],
   "version": {
